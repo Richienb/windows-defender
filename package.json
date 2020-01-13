@@ -18,7 +18,12 @@
         "test": "yarn lint && ava"
     },
     "keywords": [],
-    "dependencies": {},
+    "dependencies": {
+        "@sindresorhus/is": "^1.2.0",
+        "defender-path": "^1.0.1",
+        "ow": "^0.15.0",
+        "p-void": "^1.0.0"
+    },
     "devDependencies": {
         "ava": "^2.4.0",
         "eslint-config-richienb": "^0.3.0",

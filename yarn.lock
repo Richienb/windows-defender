@@ -327,6 +327,11 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
   integrity sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ==
 
+"@sindresorhus/is@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-1.2.0.tgz#63ce3638cb85231f3704164c90a18ef816da3fb7"
+  integrity sha512-mwhXGkRV5dlvQc4EgPDxDxO6WuMBVymGFd1CA+2Y+z5dG9MNspoQ+AWjl/Ld1MnpCL8AKbosZlDVohqcIwuWsw==
+
 "@szmarczak/http-timer@^1.1.2":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@szmarczak/http-timer/-/http-timer-1.1.2.tgz#b1665e2c461a2cd92f4c1bbf50d5454de0d4b421"
@@ -1219,6 +1224,11 @@ defaults@^1.0.3:
   integrity sha1-xlYFHpgX2f8I7YgUd/P+QBnz730=
   dependencies:
     clone "^1.0.2"
+
+defender-path@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/defender-path/-/defender-path-1.0.1.tgz#f0de2008723dc285476f6c789eff25e532a19c69"
+  integrity sha512-ucNhNqgm0PTJu5GvZw6G5VJ5Yqt4R3AN8Xvw5W24zey/eS22YN4oqZ1wT+9toOncXC/6hKWh2lUdvoX5yVUReg==
 
 defer-to-connect@^1.0.1:
   version "1.1.1"
@@ -3392,6 +3402,13 @@ os-tmpdir@^1.0.1, os-tmpdir@~1.0.2:
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha1-u+Z0BseaqFxc/sdm/lc0VV36EnQ=
 
+ow@^0.15.0:
+  version "0.15.0"
+  resolved "https://registry.yarnpkg.com/ow/-/ow-0.15.0.tgz#0d928046989422d7b06f0d6f20017016a0373df5"
+  integrity sha512-iHHqr8OXsZzBjUkOVxfSR8opBhEhdQUGE4mxZEWehQawHxhCcnnGXrfu6+HhLG3XTK+oHRD/dlfGwNdY9HTHxQ==
+  dependencies:
+    type-fest "^0.8.1"
+
 p-cancelable@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/p-cancelable/-/p-cancelable-1.1.0.tgz#d078d15a3af409220c886f1d9a0ca2e441ab26cc"
@@ -3451,6 +3468,11 @@ p-try@^2.0.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/p-try/-/p-try-2.2.0.tgz#cb2868540e313d61de58fafbe35ce9004d5540e6"
   integrity sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ==
+
+p-void@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/p-void/-/p-void-1.0.0.tgz#5a6b0e6f3a911f03df051c58f840241e301478f3"
+  integrity sha512-X+Ecs6C9W1tLMdbmp2UynGEgztSU2iotOkS+9/tA2F6SgDVpa+eJHB/riN2t8Ohs5F/t88k38LRXGxtF+L1RGg==
 
 package-hash@^4.0.0:
   version "4.0.0"
