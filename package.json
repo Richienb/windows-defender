@@ -21,6 +21,7 @@
     "dependencies": {
         "@sindresorhus/is": "^1.2.0",
         "defender-path": "^1.0.1",
+        "is-admin": "^3.0.0",
         "ow": "^0.15.0",
         "p-void": "^1.0.0"
     },
