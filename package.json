@@ -33,7 +33,7 @@
 	"devDependencies": {
 		"ava": "^2.4.0",
 		"eslint-config-richienb": "^0.3.0",
-		"typedoc": "^0.16.8",
+		"typedoc": "^0.16.9",
 		"typescript": "^3.7.5",
 		"xo": "^0.25.3"
 	},
