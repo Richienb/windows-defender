@@ -26,7 +26,7 @@
 		"clean-split": "^1.1.0",
 		"defender-path": "^1.0.1",
 		"execa": "^4.0.0",
-		"fs-extra": "^8.1.0",
+		"fs-extra": "^9.0.0",
 		"is-admin": "^3.0.0",
 		"ow": "^0.15.0"
 	},
